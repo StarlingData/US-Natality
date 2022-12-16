@@ -1,0 +1,23 @@
+﻿Position,Length,Field,Description
+219-223 ,5,FILLER_P ,Filler
+224-225 ,2,PRECARE ,Month Prenatal Care Began
+226  ,1,F_MPCB ,Reporting Flag for Month Prenatal Care Began 
+227  ,1,PRECARE5 ,Month Prenatal Care Began Recode 
+313,1,RF_PDIAB ,Pre-pregnancy Diabetes 
+314,1,RF_GDIAB ,Gestational Diabetes 
+315,1,RF_PHYPE ,Pre-pregnancy Hypertension 
+504-507 ,4,DBWT ,Birth Weight – Detail in Grams (Edited) 
+552,1,CA_DOWN ,Down Syndrome 
+553,1,CA_DISOR ,Suspected Chromosomal Disorder 
+554,1,CA_HYPO ,Hypospadias
+555,1,F_CA_LIMB ,Reporting Flag for Limb Reduction Defect 
+556,1,F_CA_CLEFTLP ,Reporting Flag for Cleft Lip with or without Cleft Palate
+557,1,F_CA_CLEFT,Reporting Flag for Cleft Palate Alone
+558,1,F_CA_DOWNS ,Reporting Flag for Down Syndrome
+559,1,F_CA_CHROM,Reporting Flag for Suspected Chromosomal Disorder 
+560,1,F_CA_HYPOS ,Reporting Flag for Hypospadias
+561,1,NO_CONGEN ,No Congenital Anomalies Checked 
+562-566 ,5,FILLER_CA,Filler
+567,1,ITRAN,Infant Transferred
+568,1,ILIVE ,Infant Living at Time of Report 
+569,1,BFED ,Infant Breastfed at Discharge 
